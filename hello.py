@@ -1,0 +1,1 @@
+print("Hello, World! My name is Abdulai Dibasy from Maryland. I am a Senior Systems Engineer interested in Cloud Computing, AWS, Kubernetes, and AI Engineering. I am taking this course to learn how AI can improve automation, reliability, and decision-making in modern technology systems.")
